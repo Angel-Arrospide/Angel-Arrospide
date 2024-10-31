@@ -9,11 +9,11 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angel-Arrospide&show_icons=true&theme=radical" alt="Ángel's GitHub Stats" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Angel-Arrospide&show_icons=true&theme=radical" alt="Ángel's GitHub Stats" />-->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Arrospide&layout=compact&theme=radical" alt="Most Used Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel-Arrospide&theme=radical" alt="GitHub Streak" />
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel-Arrospide&theme=radical" alt="GitHub Streak" />-->
 
 <h2 align="left">Connect with Me</h2>
 <ul>
