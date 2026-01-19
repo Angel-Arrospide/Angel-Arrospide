@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/angelarrospide/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://angel-arrospide.github.io/portfolio/">
+  <a href="https://www.arrospide.dev">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
