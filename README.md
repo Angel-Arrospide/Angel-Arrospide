@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 📖 I am a Computer Engineering and Research Fellow at University of Oviedo.
+- 📖 I am a Computer Engineering Student and Research Fellow at University of Oviedo.
 - 🔒 I am focused on the convergence between Industrial Cybersecurity (OT) and Machine Learning.
 - 🚩 I actively participate in the security community and compete in CTFs such as HTB and OverTheWire.
 
