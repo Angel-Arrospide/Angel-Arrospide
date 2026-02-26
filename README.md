@@ -1,10 +1,18 @@
-<h1 align="center">
-  Hi, I'm Ángel Arróspide ☕
-</h1>
+<div align="center">
+  <img src="banner-github.png.png" alt="Ángel Arróspide Marco Banner" />
+</div>
 
-<p align="center">
-  <i>AI & Cybersecurity Researcher | Focus on Critical Infrastructures | BSc in Computer Engineering</i>
-</p>
+
+
+
+
+<br>
+
+## Hi, I'm Ángel ☕
+
+- 📖 I am a Computer Engineering Student and Research Fellow at University of Oviedo.
+- 🔒 I am focused on the convergence between Industrial Cybersecurity (OT) and Machine Learning.
+- 🚩 I actively participate in the security community and compete in CTFs such as HTB and OverTheWire.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/angelarrospide/" target="_blank">
@@ -14,14 +22,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-<br>
-
-## 👨‍💻 About Me
-
-- 📖 I am a Computer Engineering Student and Research Fellow at University of Oviedo.
-- 🔒 I am focused on the convergence between Industrial Cybersecurity (OT) and Machine Learning.
-- 🚩 I actively participate in the security community and compete in CTFs such as HTB and OverTheWire.
 
 ## 🛠 Technical Skills
 
