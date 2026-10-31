@@ -1,16 +1,9 @@
-<h1 align="center">Hi there, I'm Ángel Arróspide Marco 👋</h1>
+# Ángel Arróspide-Marco
 
-### 🎓 About Me
-I am an incoming Computer Science Master's student at UC3M and researcher with a strong focus on AI safety, cybersecurity, and applied machine learning. 
+Computer engineer working on the security of AI systems and ML applied to cybersecurity. Double Master's student in Computer Engineering and Cybersecurity at UC3M.
 
-- 🔭 **Focus Areas:** AI safety (interpretability, alignment, fairness, privacy, and bias).
-- 🌱 **Continuous Learning:** Completed the ARENA curriculum to build robust technical foundations in AI safety.
-- 💼 **Experience:** Applied AI research and double master's academic track.
+**Featured:** [ML-NIDS-IIoT](https://github.com/Angel-Arrospide/ML-NIDS-IIoT). Unsupervised intrusion detection for Industrial IoT: 98.6% precision and 95.0% recall on Edge-IIoTset, over 3M packets/s on a Raspberry Pi 4.
 
-### 🔬 Research & Projects
-My work primarily bridges machine learning and cybersecurity, especially within edge computing and industrial networks. 
-- **Industrial IoT Security:** Engineered a privacy-preserving federated binary classifier for network intrusion detection.
-- **Edge ML:** Tuned and optimized intrusion detection models to achieve high throughput on commodity hardware, such as the Raspberry Pi 4.
+**Talk:** [AI to Detect the Threats Firewalls Ignore](https://angel.arrospide.dev/en/notes/talks/hackandbeers/), Hack&Beers Gijón 2026.
 
----
-🌐 **Check out my website:** [About | Á. Arróspide](https://angel.arrospide.dev/en/)
+[Website](https://angel.arrospide.dev) · [LinkedIn](https://www.linkedin.com/in/angelarrospide)
